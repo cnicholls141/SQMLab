@@ -1,0 +1,4 @@
+1) test_returnPounds(LoanTest)
+java.lang.AssertionError: checking that pounds are returned expected:<1.0> but was:<100.0>
+2) test_roundUp(LoanTest)
+java.lang.AssertionError: checking that rounds up to nearest penny expected:<0.67> but was:<66.66666666666667>
